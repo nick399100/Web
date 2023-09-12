@@ -6,5 +6,7 @@
 
 ###  姓名:陳俊翰
 ###  系級:科技系2年級
-###  *課程筆記區 *作業連結區 *專題連結區
+###  課程筆記區 
+###  作業連結區 [HW0](https://github.com/nick399100/Web/tree/main/Homework0/my-app) [HW1](https://github.com/nick399100/Web/tree/main/Homework1)
+###  專題連結區
 
