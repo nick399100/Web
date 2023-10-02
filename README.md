@@ -8,6 +8,6 @@
 ###  系級:科技系2年級
 ###  課程筆記區 
 ###  作業連結區 [HW0](https://github.com/nick399100/Web/tree/main/Homework0/my-app) 
-###  [About me]()
+###  [About me](https://nick399100.github.io/Web/Homework1/index.html)
 ###  專題連結區
 
