@@ -10,5 +10,6 @@
 ###  作業連結區 [HW0](https://github.com/nick399100/Web/tree/main/Homework0/my-app) 
 ###  [About me](https://nick399100.github.io/Web/Homework1/index.html)
 ###  [HW2](https://youtu.be/nRfCva41EDM)
+###  [HW3](https://youtu.be/6CbWuMJym7w)
 ###  專題連結區
 
